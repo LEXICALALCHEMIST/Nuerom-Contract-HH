@@ -1,0 +1,22 @@
+{
+  "name": "nuerom-contract-hh",
+  "version": "1.0.0",
+  "description": "Etherum Shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LEXICALALCHEMIST/Nuerom-Contract-HH.git"
+  },
+  "author": "Lexical Alchemist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LEXICALALCHEMIST/Nuerom-Contract-HH/issues"
+  },
+  "homepage": "https://github.com/LEXICALALCHEMIST/Nuerom-Contract-HH#readme",
+  "devDependencies": {
+    "hardhat": "^2.24.3"
+  }
+}
